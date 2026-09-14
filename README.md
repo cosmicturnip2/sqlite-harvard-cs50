@@ -20,6 +20,7 @@ being dialect-agnostic and broadly adopted across the industry.
 
 ## Structure
 
+```
 SQLite-Harvard_CS50/
 ├── 0.querying/      Filters, aggregations, ordering
 ├── 1.relating/      Joins, sets, subqueries
@@ -27,6 +28,7 @@ SQLite-Harvard_CS50/
 ├── 3.writing/       Importing, updating, cleaning data
 ├── 4.viewing/       Views, CTEs, window functions
 └── 5.optimising/    Indexes, query analysis
+```
 
 Each module folder contains one `.sql` file per dataset used in that
 module's exercises.
