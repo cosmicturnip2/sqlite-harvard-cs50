@@ -23,11 +23,26 @@ being dialect-agnostic and broadly adopted across the industry.
 ```
 SQLite-Harvard_CS50/
 ├── 0.querying/      Filters, aggregations, ordering
+│   ├── players.sql
+│   ├── cyberchase.sql
+│   └── views.sql
 ├── 1.relating/      Joins, sets, subqueries
+│   ├── moneyball.sql
+│   ├── dese.sql
+│   └── packages.sql
 ├── 2.designing/     Schemas, constraints
+│   ├── donut_shop_schema.sql
+│   ├── linkedin_schema.sql
+│   └── atl_airport_schema.sql
 ├── 3.writing/       Importing, updating, cleaning data
+│   ├── meteorites.sql
+│   └── pentest.sql
 ├── 4.viewing/       Views, CTEs, window functions
+│   ├── cipher_message.sql
+│   ├── listings_views.sql
+│   └── census.sql
 └── 5.optimising/    Indexes, query analysis
+    └── indexes.sql
 ```
 
 Each module folder contains one `.sql` file per dataset used in that
